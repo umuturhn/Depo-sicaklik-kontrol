@@ -15,14 +15,14 @@ Arduino vasıtasıyla LM35 sıcaklık sensöründen gelen veriler seri haberleş
  - 1 x LM35 sıcaklık sensörü
  - 3 adet erkek-erkek jumper kablo
  - 
-Tahliye gerekebilir maili
+Tahliye gerekebilir maili:
 
 ![gerekebilir]()
 
-Tahliye protokolü etkin maili
+Tahliye protokolü etkin maili:
 
 ![tahliye]()
 
-Çalışma anında arayüzden bir kesit
+Çalışma anında arayüzden bir kesit:
 
 ![ornek](https://github.com/umuturhn/Depo-sicaklik-kontrol/blob/main/proje%20dosyalar%C4%B1/foto%C4%9Fraflar/ornek.png)
