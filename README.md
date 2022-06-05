@@ -21,7 +21,7 @@ Tahliye gerekebilir maili
 
 Tahliye protokolü etkin maili
 
-![tahliye](https://github.com/umuturhn/Depo-sicaklik-kontrol/blob/main/proje%20dosyalar%C4%B1/foto%C4%9Fraflar/etkin-mail.PNG)
+![tahliye]()
 
 Çalışma anında arayüzden bir kesit
 
