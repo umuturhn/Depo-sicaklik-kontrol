@@ -17,11 +17,11 @@ Arduino vasıtasıyla LM35 sıcaklık sensöründen gelen veriler seri haberleş
  - 
 Tahliye gerekebilir maili
 
-![gerekebilir](https://github.com/umuturhn/Depo-sicaklik-kontrol/blob/main/proje%20dosyalar%C4%B1/foto%C4%9Fraflar/gerekebilir.PNG)
+![gerekebilir](https://github.com/umuturhn/Depo-sicaklik-kontrol/blob/main/proje%20dosyalar%C4%B1/foto%C4%9Fraflar/gerekebilir-mail.PNG)
 
 Tahliye protokolü etkin maili
 
-![tahliye](https://github.com/umuturhn/Depo-sicaklik-kontrol/blob/main/proje%20dosyalar%C4%B1/foto%C4%9Fraflar/etkin.PNG)
+![tahliye](https://github.com/umuturhn/Depo-sicaklik-kontrol/blob/main/proje%20dosyalar%C4%B1/foto%C4%9Fraflar/etkin-mail.PNG)
 
 Çalışma anında arayüzden bir kesit
 
